@@ -1,4 +1,4 @@
-https://moneyishh.github.io/day2/
+https://moneyishh.github.io/day2.github.io/
 
 Day 2
 Tried to replicate - https://thisismagma.com/
